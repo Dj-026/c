@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+body{
+    margin: 100px;
+    background-color: rgb(210, 250, 237);
+}
+ul{
+    margin-left: 50px;
+}
+h1{
+    padding: 2px;
+    margin-left: 10px;
+}
+table{
+    padding: 20px;
+}
+button{
+    margin: 5px;
+    padding: 5px 8px;
+    background-color: black;
+    color: white;
+    border-radius: 23px;
+}
